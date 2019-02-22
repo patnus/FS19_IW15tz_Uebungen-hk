@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7accd38b-d3d5-49b2-91f5-24ca224676a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05_htmlforms/05_starterpackage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05_htmlforms/05_starterpackage/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,9 +18,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05_htmlforms/05_starterpackage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="477">
+              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_htmlforms/05_starterpackage/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2" />
           </provider>
         </entry>
       </file>
@@ -38,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -80,6 +85,13 @@
               <item name="05_htmlforms" type="462c0819:PsiDirectoryNode" />
               <item name="05_starterpackage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FS19_IW15tz_Uebungen-hk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FS19_IW15tz_Uebungen-hk" type="462c0819:PsiDirectoryNode" />
+              <item name="05_htmlforms" type="462c0819:PsiDirectoryNode" />
+              <item name="05_starterpackage" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -114,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550217685043</updated>
       <workItem from="1550217687928" duration="10000" />
-      <workItem from="1550837632619" duration="515000" />
+      <workItem from="1550837632619" duration="1607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="525000" />
+    <option name="totallyTimeSpent" value="1617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -148,10 +160,15 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/05_htmlforms/05_starterpackage/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05_htmlforms/05_starterpackage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="477">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
         </state>
       </provider>
     </entry>

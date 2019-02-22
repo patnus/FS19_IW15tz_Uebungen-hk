@@ -15,36 +15,39 @@
     </head>
 
     <body>
-    <div class="container">
-        <h1>HTML Formular</h1>
-        <hr>
-        <form>
-            <div class="form-group">
-                <label for="InputSeach">Suchbegriff</label>
-                <input type="email" class="form-control" id="InputSeach" aria-describedby="emailHelp" placeholder="Gib ein Suchbegriff ein">
-            </div>
-            <div class="form-group">
-                <label for="exampleInputPassword1">Datum</label>
-                <input type="date" value="2019-02-22" min="2019-02-22" max="2025-12-31" class="form-control" id="exampleInputPassword1" placeholder="Datum">
-            </div>
-            <div class="form-row">
-                <div class="form-group col-md-6">
-                    <label for="inputCity">Ortschaft</label>
-                    <input type="text" class="form-control" id="inputCity">
+        <div class="container">
+            <h1>Suchmaske Aktivitäten</h1>
+            <hr>
+            <form>
+                <div class="form-group">
+                    <label for="inputSearch">Suchbegriff</label>
+                    <input type="email" class="form-control" id="inputSearch" aria-describedby="emailHelp" placeholder="Suchbegriff eingeben">
                 </div>
                 <div class="form-group">
-                    <label for="exampleFormControlSelect1">Umkreis</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
-                        <option>5km</option>
-                        <option>10km</option>
-                        <option>25km</option>
-                        <option>50km</option>
-                        <option>100km</option>
-                    </select>
+                    <label for="date">Datum</label>
+                    <input type="date" value="2019-02-22" min="2019-02-22" max="2025-12-31" class="form-control" id="date" placeholder="Datum">
                 </div>
-            </div>
-            <div>
-                <button type="submit" class="btn btn-primary">Suchanfrage starten</button>
-            </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputCity">Ortschaft</label>
+                        <input type="text" class="form-control" id="inputCity">
+                    </div>
+                    <div class="form-group">
+                        <label for="radius">Umkreis</label>
+                        <select class="form-control" id="radius">
+                            <option>5 km</option>
+                            <option>10 km</option>
+                            <option>25 km</option>
+                            <option>50 km</option>
+                            <option>100 km</option>
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-danger">Suchen</button>
+                </div>
+            </form>
+        </div>
+    </body>
 
 </html>
